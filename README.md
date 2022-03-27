@@ -1,0 +1,1 @@
+# counter-pinia-persisted
